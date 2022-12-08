@@ -1,0 +1,7 @@
+name = "Day08"
+uuid = "b5eb72a8-2286-4d1b-8434-b4bf65753262"
+authors = ["Mark Kittisopikul <markkitt@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
